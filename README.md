@@ -2,7 +2,13 @@
 
 A Next.js quiz application with leaderboard functionality.
 
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://funneltest.vercel.app)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Live Demo
+
+Visit the live application at: [https://funneltest.vercel.app](https://funneltest.vercel.app)
 
 ## Getting Started
 
@@ -35,6 +41,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
+This project is deployed on Vercel. Each push to the main branch will trigger an automatic deployment.
+
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+### Deployment Status
+
+- Production: [https://funneltest.vercel.app](https://funneltest.vercel.app)
+- Preview Deployments: Available for all Pull Requests
+- Development: Local development at http://localhost:3000
